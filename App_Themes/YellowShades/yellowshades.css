@@ -1,0 +1,297 @@
+A:link
+{
+    font-weight: bold;
+    font-size: 9pt;
+    color: #800000;
+    font-family: Verdana;
+    text-decoration: none;
+}	
+
+A:visited
+{
+	font-weight: bold;
+	font-size: 9pt;
+    color: #800000;
+	font-family: Verdana;
+	text-decoration: none;
+}	
+			
+A:hover
+{
+    font-weight: bold;
+    font-size: 9pt;
+    color: #CC3300;
+    font-family: Verdana;
+    text-decoration: underline;
+}
+
+p
+{
+    font-size: 9pt;
+    font-family: Verdana;
+}
+
+body
+{
+    font-size: 9pt;
+    font-family: Verdana;
+    margin: 0px;
+}
+
+.dataentryformlabel
+{
+    font-weight: bold;
+    font-size: 9pt;
+    color: #800000;
+    font-family: Verdana;
+}
+
+.dataentryformerrormsg
+{
+    font-weight: bold;
+    font-size: 9pt;
+    color: darkorange;
+    font-family: Verdana;
+}
+
+.dataentryformtextbox
+{
+    border-right: peru 1px solid;
+    border-top: peru 1px solid;
+    border-left: peru 1px solid;
+    border-bottom: peru 1px solid;
+}
+
+.dataentryformbutton
+{
+    font-weight: bold;
+    font-size: 9pt;
+    color: ivory;
+    font-family: Verdana;
+    background-color: #FF9900;
+    width: auto;
+    border-bottom-style: outset;
+    border-right-style: outset;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-top-color: #FF9966;
+    border-left-color: #FF9966;
+}
+
+
+.pagetop
+{
+    background-color: lightyellow;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border-bottom: gold thin solid;
+}
+
+.pageleft
+{
+    /* background-color: #FFFFCC; */
+    background-color: white;
+    padding-right: 5px;
+}
+
+.pageright
+{
+    background-color: white;
+}
+
+.pagebottom
+{
+    background-color: lightyellow;
+    border-top: gold thin solid;
+    padding-top: 5px;
+}
+
+.dataentryformheading
+{
+    padding: 5px 10px 5px 10px;
+    font-weight: bold;
+    font-size: 11pt;
+    vertical-align: middle;
+    color: sienna;
+    font-family: Verdana;
+    background-color: khaki;
+    text-align: center;
+}
+
+.biglabel
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-weight: bold;
+    font-size: 10pt;
+    padding-bottom: 2px;
+    vertical-align: middle;
+    color: #CC6600;
+    padding-top: 2px;
+    font-family: Verdana;
+    text-align: center;
+    width: 100%;
+}
+
+.dataentryformlabelbig
+{
+    padding-right: 5px;
+    padding-left: 5px;
+    font-weight: bold;
+    font-size: 10pt;
+    padding-bottom: 2px;
+    vertical-align: middle;
+    color: sienna;
+    padding-top: 2px;
+    font-family: Verdana;
+    text-align: left;
+    width: 100%;
+    font-style: normal;
+    background-color: #FFE3AA;
+}
+
+.marketingtext
+{
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 20px;
+    padding-bottom: 2px;
+    color: peru;
+    padding-top: 2px;
+    font-family: Arial;
+}
+
+.loginpanel
+{
+    padding: Same for all;
+    border-style: Same for all;
+    border-width: Same for all;
+    border-color: Same for all;
+    border-top-width: 2px;
+    border-top-color: #FF9900;
+    border-top-style: Solid;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    background-color: #FFCC00;
+    width: 300px;
+    border-right-style: Solid;
+    border-bottom-style: Solid;
+    border-left-style: Solid;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-color: #FF9900;
+    border-bottom-color: #FF9900;
+    border-left-color: #FF9900;
+}
+
+.tooltippanel
+{
+    padding: Same for all;
+    border-style: Same for all;
+    border-width: Same for all;
+    border-color: Same for all;
+    border-top-width: 2px;
+    border-top-color: #FF9900;
+    border-top-style: Solid;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    background-color: #FFCC00;
+    width: 400px;
+    border-right-style: Solid;
+    border-bottom-style: Solid;
+    border-left-style: Solid;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-color: #FF9900;
+    border-bottom-color: #FF9900;
+    border-left-color: #FF9900;
+}
+
+.companyprofilepanel
+{
+    padding: Same for all;
+    border-style: Same for all;
+    border-width: Same for all;
+    border-color: Same for all;
+    border-top-width: 2px;
+    border-top-color: #FF9900;
+    border-top-style: Solid;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    background-color: #FFCC00;
+    border-right-style: Solid;
+    border-bottom-style: Solid;
+    border-left-style: Solid;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-color: #FF9900;
+    border-bottom-color: #FF9900;
+    border-left-color: #FF9900;
+}
+
+.modalbackground
+{
+   	background-color:Gray;
+    filter:alpha(opacity=70);
+    opacity:0.7;
+}
+
+.waitmessage
+{
+    border-style: ridge;
+    border-color: #FF9900;
+    padding: 10px;
+    color: #FFFFFF;
+    font-size: 12pt;
+    font-weight: Bold;
+    background-color: #FF6600;
+    font-family: arial, Helvetica, sans-serif;
+}
+
+.errorlabel
+{
+    font-family: verdana;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #FF0000;
+}
+
+.activebutton
+{
+    border: 2px solid #FF9900;
+}
+
+.inactivebutton
+{
+    border: 2px solid #FFFFCC;
+}
+
+.statstable
+{
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-width: 2px;
+    border-color: #FF9900;
+}
